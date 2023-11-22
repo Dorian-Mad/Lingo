@@ -48,10 +48,10 @@
         phase-name="pretrans"><source>Topic B</source><seg-source><mrk
             mtype="seg"
             mid="1">Topic B</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="ContextMatch"
+            MadCap:matchPercent="101">Topic B</mrk></target></trans-unit></body>
   </file>
 </xliff>
