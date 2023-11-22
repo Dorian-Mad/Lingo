@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Adobe PDF Target"
+  Type="PDF"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Primary.fltoc"
+  PatchHeadingLevels="true"
+  InjectBookHeadings="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    OutputFormat="doc" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+  <Destinations></Destinations>
+</CatapultTarget>

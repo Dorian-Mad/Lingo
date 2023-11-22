@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="CompanyName">砻קยด1ตว融</Variable>
+    <Variable Comment="" Name="PhoneNumber">砻קยด2ตว融</Variable>
+    <Variable Name="NewDateTimeVariable" Comment="" Type="DateTimeFileSaved" LastUpdated="2023-10-19T06:44:01.9237122-05:00" EvaluatedDefinition="hh:mm:ss">砻קยด3ตว融</Variable>
+</CatapultVariableSet>
