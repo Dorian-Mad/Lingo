@@ -52,7 +52,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="101">Topic A 2</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">Topic A 23</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-h2"
         phase-name="pretrans"><source>test</source><seg-source><mrk
@@ -62,7 +62,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="101">test 2</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">test 23</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-h3"
         phase-name="pretrans"><source>test</source><seg-source><mrk
@@ -72,7 +72,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="101">test 2</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">test 23</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-h1"
         phase-name="pretrans"><source>test</source><seg-source><mrk
@@ -82,7 +82,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="101">test 2</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">test 23</mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-h2"
         phase-name="pretrans"><source>test</source><seg-source><mrk
@@ -92,6 +92,6 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="101">test 2</mrk></target></trans-unit></body>
+            MadCap:matchPercent="101">test 23</mrk></target></trans-unit></body>
   </file>
 </xliff>
