@@ -11,10 +11,8 @@
     datatype="xhtml"
     target-language="en-ca">
     <header>
-      <skl>
-        <external-file
-          href="Topic.htm.skl" />
-      </skl>
+      <skl><external-file
+          href="Topic.htm.skl" /></skl>
       <phase-group>
         <phase
           phase-name="translation"
@@ -50,50 +48,50 @@
         phase-name="pretrans"><source>Topic A</source><seg-source><mrk
             mtype="seg"
             mid="1">Topic A</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
             MadCap:matchPercent="101"
-            MadCap:segmentStatus="Accepted">Topic A 2345</mrk></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Untranslated">Topic</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-h2"
         phase-name="pretrans"><source>test</source><seg-source><mrk
             mtype="seg"
             mid="1">test</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:matchPercent="101"
-            MadCap:segmentStatus="Accepted">test 2345</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="0"
+            MadCap:segmentStatus="Untranslated">test</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-h3"
         phase-name="pretrans"><source>test</source><seg-source><mrk
             mtype="seg"
             mid="1">test</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
             MadCap:matchPercent="101"
-            MadCap:segmentStatus="Accepted">test 2345</mrk></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Untranslated">test </mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-h1"
         phase-name="pretrans"><source>test</source><seg-source><mrk
             mtype="seg"
             mid="1">test</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
             MadCap:matchPercent="101"
-            MadCap:segmentStatus="Accepted">test 2345</mrk></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Untranslated">test </mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-h2"
         phase-name="pretrans"><source>test</source><seg-source><mrk
             mtype="seg"
             mid="1">test</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:matchPercent="101"
-            MadCap:segmentStatus="Accepted">test 2345</mrk></target></trans-unit></body>
+            MadCap:matchPercent="0"
+            MadCap:segmentStatus="Untranslated">test</mrk></target></trans-unit></body>
   </file>
 </xliff>
