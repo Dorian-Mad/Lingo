@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LingoProject TargetLanguage="en-ca" xml:lang="en-ca" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="">
     <ProjectFile Source="Target/testing1.flprj" Target="Target/testing1.flprj" />
-    <TMConnection Connection="lingo testing.db" ReadOnly="false" Type="StandAlone" />
 </LingoProject>
